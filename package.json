@@ -40,5 +40,8 @@
     "skip": {
       "tag": true
     }
+  },
+  "dependencies": {
+    "nexus": "0.12.0-beta.6"
   }
 }
